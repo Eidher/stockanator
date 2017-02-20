@@ -1,7 +1,7 @@
 {
-  "name": "Stock Insane Wealthiness Tool",
+  "name": "stock-iwt",
   "version": "0.1.0",
-  "description": "Stock madness tool",
+  "description": "Stock Insane Wealthiness Tool",
   "author": "Eidher Escalona <eidher.escalona@gmail.com>",
   "main": "index.js",
   "scripts": {
