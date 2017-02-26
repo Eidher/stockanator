@@ -1,7 +1,7 @@
 {
-  "name": "stock-iwt",
+  "name": "stock-awt",
   "version": "0.1.0",
-  "description": "Stock Insane Wealthiness Tool",
+  "description": "Stock Absolute Wealth Tool",
   "author": "Eidher Escalona <eidher.escalona@gmail.com>",
   "main": "index.js",
   "scripts": {
