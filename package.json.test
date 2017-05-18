@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "prestart": "npm install",
-    "start": "node index.js",
+    "start": "node test.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "ISC",
@@ -16,7 +16,6 @@
 	  "date-and-time": "0.4.0",
     "cheerio": "0.22.0",
     "async": "2.1.5",
-    "jsonpath": "0.2.11",
-    "canvas": "1.6.4"
+    "jsonpath": "0.2.11"
   }
 }
